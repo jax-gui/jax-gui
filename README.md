@@ -1,6 +1,6 @@
 Hi, I’m @jax-gui
 I’m not planning to publish much here
-But check back in a few years to see if that has changed
+but check back in a few years to see if that has changed
 
 <!---
 jax-gui/jax-gui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
